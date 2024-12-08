@@ -1,5 +1,8 @@
 # Prompt Templates for Midjourney
 
+![Patagonia Branding Example](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/515bfa62131f148906f1e922a130457fa24d39f4/Art/bmsaiyimuhu.png)
+
+
 ## Introduction
 Creating effective prompts for Midjourney is both an art and a science. This chapter equips you with actionable strategies, practical templates, and exercises to help you approach prompt engineering systematically. With these techniques, you can achieve more consistent, creative, and high-quality results in your AI-assisted design journey.
 
