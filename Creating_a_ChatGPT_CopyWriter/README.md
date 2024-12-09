@@ -1,4 +1,5 @@
 # Creating a Copywriter CustomGPT
+_Nik Bear Brown_
 
 This article provides a comprehensive guide to creating a custom copywriting assistant, modeled after the legendary advertising icon David Ogilvy. It outlines the key principles of effective brand copywriting, including establishing a consistent brand voice, understanding the target audience, emphasizing clarity and simplicity, highlighting benefits over features, evoking emotion, and building credibility. 
 
