@@ -1,4 +1,4 @@
-# Creating a ChatGPT copywriter plug-in
+# Creating a Copywriter CustomGPT
 
 
 
