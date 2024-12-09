@@ -1,5 +1,6 @@
 # How to Create an EPUB and Kindle MOBI File from a Word Document Using Sigil (with AI Assistance)
-
+By Nik Bear Brown    
+*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
 
 
 #### **Introduction**
