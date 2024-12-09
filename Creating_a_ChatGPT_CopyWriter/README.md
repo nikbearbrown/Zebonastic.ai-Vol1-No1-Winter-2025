@@ -1,6 +1,10 @@
 # Creating a Copywriter CustomGPT
 
+This article provides a comprehensive guide to creating a custom copywriting assistant, modeled after the legendary advertising icon David Ogilvy. It outlines the key principles of effective brand copywriting, including establishing a consistent brand voice, understanding the target audience, emphasizing clarity and simplicity, highlighting benefits over features, evoking emotion, and building credibility. 
 
+The document then details a step-by-step process for setting up the "Ogilvy" CustomGPT, including defining the persona and capabilities, accessing the customization features, uploading the base prompt, configuring the user interface, and adding specific functionality. It provides sample prompts and responses to demonstrate how the CustomGPT can generate brand voice, optimize copy for SEO, analyze emotional impact, and more.
+
+The goal is to equip readers with the knowledge and tools to create their own tailor-made copywriting assistant, inspired by the timeless principles of the "Father of Advertising." By mastering persuasive, audience-centric writing, this CustomGPT aims to help users craft memorable, impactful brand copy that drives engagement and conversion.
 
 ## Copy writing tips 
 
