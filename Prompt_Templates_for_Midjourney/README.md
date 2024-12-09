@@ -4,8 +4,9 @@
 
 
 # Midjourney: Transforming Branding and Marketing Through AI
-By Nik Bear Brown
+By Nik Bear Brown    
 *Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
+
 
 Midjourney represents a paradigm shift in how we approach visual branding and marketing. As an AI-powered text-to-image platform, it enables brands to generate unique, high-quality visuals simply by describing what they want to create. This capability is revolutionizing how we conceptualize, prototype, and produce visual content for marketing campaigns, brand identities, and social media presence.
 
