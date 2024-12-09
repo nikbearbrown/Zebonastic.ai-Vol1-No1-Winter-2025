@@ -51,9 +51,6 @@ For branding and marketing professionals, Midjourney offers unprecedented advant
 
 Through this article, we'll explore practical techniques for leveraging Midjourney's capabilities to enhance your brand's visual communication. Whether you're a seasoned creative director or a marketing professional new to AI tools, you'll discover how to integrate this powerful platform into your creative workflow.
 
-# Getting Started: Discord as Your Gateway to Midjourney
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
-
 ## Understanding the Discord-Midjourney Connection
 
 Unlike traditional design software, Midjourney operates primarily through Discord, a communication platform originally built for gamers. This unique setup might seem unusual at first, but it creates a dynamic, community-driven environment that enhances the creative process.
@@ -210,10 +207,7 @@ Advertisement:
    - Build a prompt library
    - Learn from community examples
 
-# The /describe Command: Reverse-Engineering Image Prompts
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
-
-## What is the /describe Command?
+## The /describe Command: Reverse-Engineering Image Prompts
 
 The /describe command is a powerful learning tool that helps you understand how Midjourney "sees" images. By uploading an image and using this command, you'll receive potential prompts that could create similar images.
 
@@ -282,10 +276,7 @@ Steps:
 - Technique learning
 ```
 
-# The /shorten Command: Streamlining Your Prompts
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
-
-## Understanding /shorten
+## The /shorten Command: Streamlining Your Prompts
 
 The /shorten command helps simplify long, complex prompts while maintaining their essential elements. This tool is invaluable for understanding which aspects of your prompts are most impactful.
 
@@ -358,10 +349,7 @@ Maintain longer prompts for:
    - Test variations
    - Optimize results
 
-# The Art of Prompt Efficiency: Why Less Can Be More
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
-
-## Understanding Prompt Overload
+## The Art of Prompt Efficiency: Why Less Can Be More
 
 When crafting prompts for Midjourney, it's crucial to understand that more words don't necessarily mean better results. Like a crowded room where too many voices make it hard to hear the important ones, overly complex prompts can cause the AI to focus inconsistently on different elements.
 
@@ -425,10 +413,10 @@ Stable:
 - Document variations
 - Refine as needed
 
-# Understanding Midjourney Parameters: Aspect Ratio and Beyond
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
+## Understanding Midjourney Parameters: Aspect Ratio and Beyond
 
-## The --ar (Aspect Ratio) Parameter
+
+### The --ar (Aspect Ratio) Parameter
 
 Aspect ratio determines the proportional relationship between an image's width and height. In Midjourney, this is controlled using the --ar parameter.
 
@@ -511,10 +499,9 @@ Instagram:
 Feed: --ar 1:1
 Story: --ar 9:16
 ```
-# Essential Midjourney Parameters: Beyond Aspect Ratio
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
+## Essential Midjourney Parameters: Beyond Aspect Ratio
 
-## Quality Parameters (--q)
+### Quality Parameters (--q)
 
 ### Understanding Quality Settings
 ```markdown
@@ -675,8 +662,6 @@ Portrait: "clamshell lighting, OCF, medium format, Kodak Portra"
 Architecture: "golden ratio, leading lines, wide angle, HDR"
 ```
 
-
-
 ## Basic Template Structure
 
 Midjourney prompts have several core components that act as building blocks for generating specific outputs. Understanding and mastering these elements is key to building effective templates.
@@ -736,10 +721,7 @@ Below are detailed templates for common use cases, along with examples inspired 
 
 ---
 
-# Prompt Templates: Building Blocks for AI Image Creation
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
-
-## Understanding Template Structure
+## Prompt Templates: Building Blocks for AI Image Creation
 
 Think of prompt templates as recipes – consistent formulas that help you achieve reliable results. Each template combines core elements in a specific way to generate the desired output.
 
