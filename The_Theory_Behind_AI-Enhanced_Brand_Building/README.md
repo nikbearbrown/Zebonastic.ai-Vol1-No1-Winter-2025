@@ -25,6 +25,8 @@ In the AI-Enhanced Brand Building framework, understanding your audience is a cr
 
 Yes, **Google Analytics provides sample datasets** for teaching and learning purposes through its **Google Analytics Demo Account**. This account contains real data from the Google Merchandise Store, an e-commerce site that sells Google-branded merchandise. It is a valuable resource for educators, students, and practitioners to explore the capabilities of Google Analytics without needing access to a live account.
 
+![Google Analytics User Interface](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/blob/6b91208f9cec7acd55f7baf04abe4f185d34da51/Art/Google_Analytics_user_interface.png)
+
 ### **How to Access the Google Analytics Demo Account**
 
 1. **Sign In**: Log in to your Google account.
