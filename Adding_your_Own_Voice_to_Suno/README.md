@@ -13,7 +13,6 @@ Whether you're an aspiring musician, a passionate music lover, or simply someone
 
 Creating a mixed audio file with your own voice and an AI-generated voice is a straightforward process using **Audacity**. Here's how you can seamlessly combine the two tracks, edit them for clarity, and export the final 2-minute file for upload to **Suno**.
 
----
 
 ### **Preparation**
 Before you begin, make sure you have the following ready:
@@ -21,13 +20,11 @@ Before you begin, make sure you have the following ready:
 2. **AI-Generated Voice File**: Obtain the AI-generated voice audio you’d like to use.
 3. **Audacity Installed**: Download and install Audacity if you haven’t already.
 
----
 
 ### **Step 1: Open Audacity and Start a New Project**
 1. Launch Audacity on your computer.
 2. Create a new project by clicking `File > New`.
 
----
 
 ### **Step 2: Import Audio Files**
 1. **Import Your Voice File**:
@@ -36,14 +33,14 @@ Before you begin, make sure you have the following ready:
    - Repeat the process to import the AI-generated voice file.
 3. Both files will appear as separate tracks in the Audacity workspace.
 
----
+![Audacity](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/blob/af211c7d9c52bcaea96a87e4c11b3f41e303f4ef/Art/Audacity.png)
+
 
 ### **Step 3: Arrange the Tracks**
 1. Place the **recorded voice file** on the top track.
 2. Place the **AI-generated voice file** on the track below.
 3. This arrangement makes it easier to see and work with the two tracks.
 
----
 
 ### **Step 4: Adjust Volume and Panning**
 1. **Adjust Volume**:
@@ -54,14 +51,12 @@ Before you begin, make sure you have the following ready:
      - Pan your voice slightly to the left.
      - Pan the AI-generated voice slightly to the right.
 
----
 
 ### **Step 5: Synchronize the Tracks**
 1. Use Audacity’s **Time Shift Tool** (icon with two arrows pointing left and right) to align the tracks.
 2. Play both tracks together to ensure they are synchronized and blend well.
 3. Adjust the alignment until the timing feels natural and cohesive.
 
----
 
 ### **Step 6: Apply Effects and Processing (Optional)**
 Enhance the audio using Audacity’s built-in effects:
@@ -75,13 +70,11 @@ Enhance the audio using Audacity’s built-in effects:
    - Apply compression to balance dynamic levels.
    - Go to `Effect > Compressor` and adjust the threshold and ratio.
 
----
 
 ### **Step 7: Trim the Audio to 2 Minutes**
 1. Use the **Selection Tool** to highlight the first 2 minutes of the combined audio.
 2. Go to `Edit > Remove Special > Trim Audio` (or press **Ctrl+T / Command+T**) to delete excess content.
 
----
 
 ### **Step 8: Export the Final File**
 1. Go to `File > Export > Export Audio`.
@@ -93,14 +86,12 @@ Enhance the audio using Audacity’s built-in effects:
    - Bitrate: At least **192 kbps** for good audio quality.
 5. Click **Export** to save the mixed audio file.
 
----
 
 ### **Step 9: Upload the File to Suno**
 1. Open the Suno interface and log in to your account.
 2. Click the **"Upload Audio"** button and select the exported file.
 3. Proceed with further customizations, such as editing lyrics or selecting musical styles, to complete your project.
 
----
 
 ### **Summary of Key Steps**
 1. Record and prepare the necessary audio files (your voice and AI-generated voice).
@@ -115,14 +106,12 @@ By following these steps, you’ll create a polished, professional-quality mixed
 
 Creating a cover song using **Suno** is a streamlined process that blends creative flexibility with powerful AI-driven tools. Whether you're a beginner or an experienced musician, Suno's intuitive interface allows you to upload audio, customize it, and craft a unique cover song. Here's a step-by-step guide to walk you through the process.
 
----
 
 ### **Step 1: Navigate to the Suno Platform**
 - Start by opening the Suno interface and logging into your account. 
 - Suno provides credits for creating and editing content (e.g., 10,500 credits as shown in the example). Ensure you have enough credits to proceed with your project.
 - Familiarize yourself with the platform’s main menu, which includes options like **Home**, **Create**, **Library**, and **Explore**.
 
----
 
 ### **Step 2: Upload Your Audio**
 - Look for the **"Upload Audio"** button at the top of the Suno interface.
@@ -132,7 +121,7 @@ Creating a cover song using **Suno** is a streamlined process that blends creati
   - Duration limits suitable for processing.
 - Once uploaded, the platform will process the audio, preparing it for further customization.
 
----
+![Suno](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/blob/11e8644011598e9bea0d41e14fb80051fa36ec1e/Art/Suno.png)
 
 ### **Step 3: Customize the Song**
 Suno offers a toggle switch labeled **"Custom/Instrumental"**, which lets you decide how to approach your cover song:
@@ -141,7 +130,6 @@ Suno offers a toggle switch labeled **"Custom/Instrumental"**, which lets you de
 
 Choose the mode that best suits your creative goals.
 
----
 
 ### **Step 4: Edit Lyrics or Use "Write with Suno"**
 The **Lyrics** section allows you to tailor the song further:
@@ -153,7 +141,6 @@ The **Lyrics** section allows you to tailor the song further:
 
 The text box supports up to 3,000 characters, giving you plenty of room to craft or revise the lyrics.
 
----
 
 ### **Step 5: Select the Style of Music**
 Suno enables you to define the musical style of your cover song:
@@ -161,14 +148,12 @@ Suno enables you to define the musical style of your cover song:
 - Toggle the **"Exclude Styles"** option to avoid specific styles or genres.
 - This flexibility allows you to shape the song’s mood and vibe according to your vision.
 
----
 
 ### **Step 6: Finalize and Create**
 Once you've uploaded the audio, customized the lyrics, and defined the musical style, it’s time to create:
 - Click the **"Create"** button (or its equivalent) to initiate Suno’s processing.
 - Suno will combine all your inputs to generate a cover song tailored to your specifications.
 
----
 
 ### **Step 7: Preview and Refine**
 After Suno processes your song:
@@ -178,7 +163,6 @@ After Suno processes your song:
    - Make further edits to the lyrics, style, or audio.
    - Regenerate the song until you're satisfied with the result. Suno allows for iterative refinement, ensuring you achieve your desired outcome.
 
----
 
 ### **Step 8: Save or Export**
 - **Save Your Work**  
@@ -186,7 +170,6 @@ After Suno processes your song:
 - **Export the Song**  
    Export the completed cover song to share or publish it on platforms like YouTube, SoundCloud, or Spotify.
 
----
 
 ### **Pro Tips for a Polished Cover Song**
 1. **Optimize Your Audio**  
@@ -196,7 +179,6 @@ After Suno processes your song:
 3. **Iterate for Perfection**  
    Don’t hesitate to regenerate and refine the song to ensure it meets your expectations.
 
----
 
 ### **Conclusion**
 Suno’s intuitive tools make creating a personalized cover song straightforward and enjoyable. From uploading audio to customizing lyrics and styles, the platform empowers you to bring your creative vision to life. With features like **"Write with Suno"**, genre-specific styling, and iterative refinement, you can craft a unique and professional-quality cover song in no time.
@@ -204,7 +186,6 @@ Suno’s intuitive tools make creating a personalized cover song straightforward
 If you have any questions or need assistance with specific features, feel free to ask. Suno makes the process accessible and rewarding for artists of all levels.
 
 Happy music-making! 🎶
-
 
 
 
