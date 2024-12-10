@@ -182,6 +182,9 @@ MidJourney can generate visually stunning designs to inspire your business card,
    - Go to [MidJourney's website](https://www.midjourney.com/) and click **Join the Beta**.
    - Sign in to Discord or create an account if you don't have one.
 
+  ![MJ Business Card Template](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/blob/567d3299d28d0fdaddad6ede6aa2a5f11d9cd13e/Art/MJ_Business_Card_Template.png)
+
+
 2. **Access a Bot Channel**:
    - Once in the MidJourney server, navigate to a "Newbie" or "General" bot channel to interact with the bot.
 
