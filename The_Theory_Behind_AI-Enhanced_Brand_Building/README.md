@@ -285,6 +285,9 @@ When working with Claude, provide a detailed prompt that includes:
 3. **Audience Details:** Who is the audience? (e.g., customers, employees, stakeholders)
 4. **Content Structure:** What sections or details should be included?
 
+![Clause Copywriting](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/blob/b027396df836381d3f75279812f6a769014cfba5/Art/Clause_copywriting.png)
+
+
 **Example Prompt for Claude:**
 > "You are a brand copywriting assistant. Our tone is professional, friendly, and empathetic. Please write a customer support email addressing a delay in shipment. Use positive language to reassure the customer and maintain trust. Avoid overly formal language or unnecessary jargon."
 
