@@ -1,7 +1,6 @@
-
-# ENGR-0201: Organizing Academic Success: AI for Personalized Learning  
-
-### Module One - How to Speak Bot
+# How to Speak Bot    
+**By Nik Bear Brown**  
+*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
 
 # Chapter 1: Chatbots and Large Language Models (LLMs)
 
