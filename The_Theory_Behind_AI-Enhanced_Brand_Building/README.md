@@ -70,14 +70,6 @@ The Demo Account includes:
 - Explore data under **Acquisition > Google Ads** or **Social** to understand how marketing channels drive traffic and revenue.
 - Teach attribution modeling by examining **Conversions > Multi-Channel Funnels**.
 
----
-
-### **Advantages for Educators**
-- **Hands-On Learning**: Real-world data allows students to practice analytics without needing access to live business accounts.
-- **Comprehensive Scope**: Covers various aspects of audience research, behavior analysis, and e-commerce performance.
-- **Custom Reports**: Create tailored exercises using GA's custom report and dashboard features.
-
----
 
 ### **Example Exercise Using the Demo Account**
 
@@ -104,7 +96,84 @@ A brand's identity is its foundation, encompassing its mission, vision, values, 
 **Tools in Action:**  
 - ChatGPT generates mission and vision statements tailored to organizational goals.  
 - Qualtrics analyzes survey responses to identify core values.  
-- Canva and Looka create visual assets aligned with brand personality.  
+- Canva and Looka create visual assets aligned with brand personality.
+
+**Excercise: ChatGPT to Generate Mission and Vision Statements**
+
+Here’s a step-by-step guide to using ChatGPT to generate **mission** and **vision** statements tailored to an organization’s goals. Each step is followed by examples to illustrate the process.
+
+
+### **Step 1: Define the Organization’s Purpose and Goals**
+Clearly outline what the organization does, who it serves, and what it aims to achieve. This is the foundation for crafting both mission and vision statements.
+
+**Example Input to ChatGPT**:  
+> "We are a sustainable fashion brand creating eco-friendly clothing for urban professionals. Our goal is to reduce environmental impact while delivering high-quality, stylish apparel."
+
+
+### **Step 2: Prompt ChatGPT to Generate a Mission Statement**
+A mission statement describes the organization’s current purpose and actions.
+
+**Prompt Example**:  
+> "Generate a concise mission statement for a sustainable fashion brand that creates eco-friendly clothing for urban professionals."
+
+**ChatGPT Output**:  
+> "Our mission is to empower urban professionals to make sustainable choices by providing eco-friendly, high-quality, and stylish apparel that reduces environmental impact and promotes ethical practices."
+
+---
+
+### **Step 3: Prompt ChatGPT to Generate a Vision Statement**
+A vision statement describes the organization’s future aspirations and long-term goals.
+
+**Prompt Example**:  
+> "Write a vision statement for the same sustainable fashion brand, focusing on its aspiration to lead the eco-fashion movement and inspire global sustainability."
+
+**ChatGPT Output**:  
+> "Our vision is to lead the global movement toward sustainable fashion, inspiring a future where ethical practices and environmental responsibility are the norm in every wardrobe."
+
+---
+
+### **Step 4: Refine the Statements**
+Review the generated mission and vision statements to ensure they align with the organization’s unique identity, goals, and values. Adjust as needed.
+
+**Example Refinements**:  
+- Simplify language for clarity.  
+- Add specific references to target audiences or key goals.  
+- Adjust tone to match the brand's personality (e.g., professional, casual, innovative).
+
+**Refined Mission Statement**:  
+> "We empower urban professionals to build sustainable lifestyles through eco-friendly, stylish apparel designed with a commitment to ethical practices and environmental stewardship."
+
+**Refined Vision Statement**:  
+> "We envision a world where sustainable fashion is accessible to all, setting new standards for ethical practices and inspiring global environmental responsibility."
+
+---
+
+### **Step 5: Validate with Stakeholders**
+Share the mission and vision statements with key stakeholders, such as team members, customers, or advisors, to gather feedback and ensure alignment.
+
+**Sample Stakeholder Feedback Questions**:
+1. Does the mission statement reflect our current purpose effectively?  
+2. Does the vision statement inspire and align with our long-term goals?  
+3. Is the tone consistent with our brand identity?
+
+---
+
+### **Step 6: Finalize and Implement**
+Incorporate the finalized mission and vision statements into brand materials, such as websites, marketing collateral, and internal documents. Use them to guide decision-making and align the team with organizational goals.
+
+---
+
+### **Full Example**:
+
+#### Input Information:  
+- **Industry**: Sustainable fashion  
+- **Target Audience**: Urban professionals  
+- **Goals**: Reduce environmental impact, inspire sustainability, lead the eco-fashion movement.
+
+#### Generated Statements:
+- **Mission**: "We empower urban professionals to embrace sustainable living through eco-friendly, high-quality fashion, designed to reduce environmental impact and support ethical practices."  
+- **Vision**: "We envision a future where sustainable fashion becomes a global standard, leading the way toward a healthier planet and a more ethical industry."
+
 
 #### **3. Asset Creation and Deployment**  
 AI-powered design and content tools streamline the development of brand assets, ensuring consistency and scalability across digital and physical touchpoints.  
@@ -117,8 +186,10 @@ AI-powered design and content tools streamline the development of brand assets, 
 - **Collaborative Design:** Tools like Figma and Designify simplify the creation and management of brand templates.  
 
 **Implementation Exercises:**  
-1. Use Figma to design templates for business cards, email signatures, and presentations.  
-2. Create an asset library with tools like Brandfolder, including guidelines for usage.  
+1. Use Midhourney or Figma to design templates for business cards, email signatures, and presentations.  
+2. Create an asset library with tools like Brandfolder, including guidelines for usage.
+
+
 
 #### **4. Brand Messaging**  
 Crafting an authentic and consistent brand voice ensures that every interaction reinforces the brand’s personality. AI enhances this process by optimizing tone and messaging.  
