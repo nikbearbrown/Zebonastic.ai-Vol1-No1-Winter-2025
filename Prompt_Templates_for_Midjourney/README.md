@@ -290,6 +290,9 @@ Steps:
 
 The /shorten command helps simplify long, complex prompts while maintaining their essential elements. This tool is invaluable for understanding which aspects of your prompts are most impactful.
 
+![Shorten](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/68aecff51cd0dfd57e1fbac37f6fd086d1c78551/Art/shorten.png)
+
+
 ### How It Works
 ```markdown
 1. Start with a detailed prompt
