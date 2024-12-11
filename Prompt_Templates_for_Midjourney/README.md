@@ -59,6 +59,8 @@ Through this article, we'll explore practical techniques for leveraging Midjourn
 
 Unlike traditional design software, Midjourney operates primarily through Discord, a communication platform originally built for gamers. This unique setup might seem unusual at first, but it creates a dynamic, community-driven environment that enhances the creative process.
 
+![Discord](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/main/Art/discord.png)
+
 ### What is Discord?
 Discord is a real-time messaging and community platform that combines:
 - Text chat channels
