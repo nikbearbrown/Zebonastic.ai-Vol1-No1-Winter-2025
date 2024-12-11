@@ -131,7 +131,9 @@ Essential Commands:
 - Network with creators
 
 # The /imagine Command: Your Gateway to AI Image Creation
-*Zebonastic.ai Vol. 1 No. 1 - Winter 2025*
+
+![Imagine](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/62701f41d495466ff0e3aaf2fc4eb2b1e4048181/Art/imagine.png)
+
 
 ## Understanding /imagine
 
