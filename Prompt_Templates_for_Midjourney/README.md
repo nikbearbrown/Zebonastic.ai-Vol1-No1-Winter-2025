@@ -946,8 +946,114 @@ Evaluate your progress with the following criteria:
 - **Quality**: Improve technical detail.
 - **Flexibility**: Adapt prompts to different scenarios.
 
+
+Midjourney's External Editor is a gateway to limitless creativity. Whether you're reimagining a t-shirt, transforming a photo, or exploring new designs, the tools and features empower you to bring your ideas to life responsibly and ethically.
+
+Prompt templates are the foundation for mastering AI-assisted art in Midjourney. By experimenting with structured approaches and drawing inspiration from literature, mythology, and fairy tales, you can unlock your creativity, streamline your workflow, and achieve professional-quality results. Let these exercises and examples inspire your next creative project!
+
+## Bonus: Using Midjourney's External Editor for Inpainting Images
+
+Midjourney's External Editor is a powerful tool for enhancing and transforming your images using AI. This guide will walk you through the process of using the External Editor to inpaint images, with a focus on creating unique and ethical designs.
+
 ---
 
-## Conclusion
-Prompt templates are the foundation for mastering AI-assisted art in Midjourney. By experimenting with structured approaches and drawing inspiration from literature, mythology, and fairy tales, you can unlock your creativity, streamline your workflow, and achieve professional-quality results. Let these exercises and examples inspire your next creative project!
+## **Eligibility Requirements**
+The External Editor is available to Midjourney subscribers who meet at least one of the following criteria:
+- Have an active yearly subscription.
+- Have been subscribed for at least 12 consecutive months with no interruptions.
+- Have generated more than 10,000 Midjourney jobs.
+
+If you meet these requirements, you're ready to begin!
+
+---
+
+## **Getting Started**
+1. **Access the External Editor**:
+   - Open the External Editor through your Midjourney account.
+   - Upload your image by selecting **Edit Uploaded Image** or choose an image from your Midjourney gallery.
+
+2. **Prepare Your Workspace**:
+   - Uploaded images are private and won’t appear on the public gallery, ensuring privacy and creative freedom.
+
+---
+
+## **Using the Editing Tools**
+### **Edit Tab Features**
+1. **Move/Resize**:
+   - Reposition or scale your image on the canvas. Any blank space created will be filled with AI-generated details upon submission.
+
+2. **Erase Tool**:
+   - Highlight areas to be regenerated. Select extra space around the target area for better results.
+   - Example: If adding a logo to a t-shirt, erase the area where the logo should appear.
+
+3. **Restore Tool**:
+   - Refine erased areas to ensure precision.
+
+4. **Brush Size**:
+   - Adjust the diameter of the erase/restore tool for detailed or broad selections.
+
+5. **Aspect Ratio Selection**:
+   - Change the image’s aspect ratio. The AI will expand the original image to fit the new dimensions.
+
+6. **Image Scale**:
+   - Use the slider to expand the image canvas and allow the AI to generate additional content.
+
+7. **Suggest Prompt**:
+   - Use the Describe tool to generate a prompt based on your image.
+
+---
+
+### **Retexture Tab**
+- **Retexturing** adjusts the surface details of an image, such as lighting and textures, while preserving the overall structure.
+- Edit the prompt in the imagine box to align it with your vision.
+- Example: Transform a plain t-shirt into a textured design with specific materials like denim or silk.
+
+---
+
+## **Example Use Case: Adding a Superhero Logo to a T-Shirt**
+### **Step-by-Step Process**
+1. **Upload the Image**:
+   - Select a photo of a t-shirt to be modified.
+   
+2. **Define the Logo Area**:
+   - Use the **Erase Tool** to mark the chest area for the logo.
+   - Adjust the **Brush Size** for precision.
+
+3. **Create a Prompt**:
+   - Write a descriptive and ethical prompt, such as:
+     _“A black t-shirt with a vibrant red and yellow superhero emblem.”_
+   - Avoid using specific trademarked names or designs.
+
+4. **Submit Your Edit**:
+   - Click **Submit Edit** to process the changes.
+
+5. **Refine and Repeat**:
+   - Use the Undo or Reset tools if the result isn’t satisfactory.
+   - Adjust the erased area or refine the prompt for better results.
+
+6. **Export Your Work**:
+   - Once satisfied, either **Upscale to Gallery** or **Download Image** to save your creation.
+
+---
+
+## **Tips for Success**
+- **Respect Intellectual Property**: Avoid direct replication of trademarked designs; focus on creative and unique interpretations.
+- **Iterate and Experiment**: AI results can vary, so don’t hesitate to make adjustments and try multiple approaches.
+- **Maintain Consistency**: Match the lighting and perspective of the original image for seamless integration.
+
+---
+
+## **Exporting and Managing Edited Images**
+- **Upscale to Gallery**: Save your final creation in your main Midjourney gallery.
+- **Download**: Save the image directly to your device for further use.
+- **History**: Access previous edits and start fresh with the **View All** or **New** options.
+
+---
+
+## **Guidelines and Responsibilities**
+- **Content Rules**: Ensure your inputs comply with Midjourney's Terms of Service and Community Guidelines.
+- **Originality**: Use images you have the right to modify.
+- **Moderation**: Be prepared for moderation filters, as some prompts may be blocked.
+
+
 
