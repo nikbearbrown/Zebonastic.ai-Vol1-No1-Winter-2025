@@ -366,6 +366,8 @@ Maintain longer prompts for:
 
 When crafting prompts for Midjourney, it's crucial to understand that more words don't necessarily mean better results. Like a crowded room where too many voices make it hard to hear the important ones, overly complex prompts can cause the AI to focus inconsistently on different elements.
 
+![Shortened Stable](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/8369ecc18d03df590d261c608fda75f15f37f579/Art/shortened_stable.png)
+
 ### The Problem with Verbose Prompts
 ```markdown
 Example of an Overcrowded Prompt:
