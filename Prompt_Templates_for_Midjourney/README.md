@@ -682,6 +682,8 @@ Architecture: "golden ratio, leading lines, wide angle, HDR"
 
 Midjourney prompts have several core components that act as building blocks for generating specific outputs. Understanding and mastering these elements is key to building effective templates.
 
+![Anatomy Prompts](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/029c6f1c294046346fb9c2883150f93e936b4103/Art/anatomy_prompts.png)
+
 ### Core Components:
 
 1. **Subject**
