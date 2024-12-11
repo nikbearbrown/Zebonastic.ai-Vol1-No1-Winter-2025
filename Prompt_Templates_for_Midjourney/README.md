@@ -149,6 +149,8 @@ Example:
 
 ## Anatomy of a Good Prompt
 
+![Anatomy Prompts](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/8e6cb5db67849c2dc9a801813669134dc1f35dbc/Art/anatomy_prompts.png)
+
 ### Core Elements
 1. **Subject**
    - What you want to create
