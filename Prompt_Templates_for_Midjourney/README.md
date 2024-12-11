@@ -955,7 +955,8 @@ Prompt templates are the foundation for mastering AI-assisted art in Midjourney.
 
 Midjourney's External Editor is a powerful tool for enhancing and transforming your images using AI. This guide will walk you through the process of using the External Editor to inpaint images, with a focus on creating unique and ethical designs.
 
----
+![Inpainting](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/1d3e43f388804b170c54a06d2017ef4df3bef3b0/Art/inpainting.png)
+
 
 ## **Eligibility Requirements**
 The External Editor is available to Midjourney subscribers who meet at least one of the following criteria:
@@ -965,7 +966,6 @@ The External Editor is available to Midjourney subscribers who meet at least one
 
 If you meet these requirements, you're ready to begin!
 
----
 
 ## **Getting Started**
 1. **Access the External Editor**:
@@ -975,7 +975,6 @@ If you meet these requirements, you're ready to begin!
 2. **Prepare Your Workspace**:
    - Uploaded images are private and won’t appear on the public gallery, ensuring privacy and creative freedom.
 
----
 
 ## **Using the Editing Tools**
 ### **Edit Tab Features**
@@ -1001,14 +1000,12 @@ If you meet these requirements, you're ready to begin!
 7. **Suggest Prompt**:
    - Use the Describe tool to generate a prompt based on your image.
 
----
 
 ### **Retexture Tab**
 - **Retexturing** adjusts the surface details of an image, such as lighting and textures, while preserving the overall structure.
 - Edit the prompt in the imagine box to align it with your vision.
 - Example: Transform a plain t-shirt into a textured design with specific materials like denim or silk.
 
----
 
 ## **Example Use Case: Adding a Superhero Logo to a T-Shirt**
 ### **Step-by-Step Process**
@@ -1034,7 +1031,8 @@ If you meet these requirements, you're ready to begin!
 6. **Export Your Work**:
    - Once satisfied, either **Upscale to Gallery** or **Download Image** to save your creation.
 
----
+![Cover](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/1d3e43f388804b170c54a06d2017ef4df3bef3b0/Art/cover.png)
+
 
 ## **Tips for Success**
 - **Respect Intellectual Property**: Avoid direct replication of trademarked designs; focus on creative and unique interpretations.
