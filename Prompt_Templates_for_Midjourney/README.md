@@ -430,6 +430,7 @@ Stable:
 
 ## Understanding Midjourney Parameters: Aspect Ratio and Beyond
 
+![Parameters](https://github.com/nikbearbrown/Zebonastic.ai-Vol1-No1-Winter-2025/raw/main/Art/parameters.png)
 
 ### The --ar (Aspect Ratio) Parameter
 
